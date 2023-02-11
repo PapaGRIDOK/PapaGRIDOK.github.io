@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(../img/image-15ya2d4g\ \(1\).png);
+}
+.first-container{
+    width: 700px;
+    height: 700px;
+    background-image: url(../img/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    border:1px solid #000;
+    background-position: center;
+    background-color:purple;
+    background-size: cover;
+}
+.google{
+    display:block;
+    font-size: 32px;
+    margin: 40px;
+}
+.google:visited{
+    color:purple;
+}
+.gogle:active{
+    color:rgb(125, 0, 178)
+}
